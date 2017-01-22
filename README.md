@@ -1,4 +1,4 @@
 # hello-world
 
-Miksi Darth Vadet osti silmälasit?
+Miksi Darth Vader osti silmälasit?
 Koska hän ei nähnyt lukea
